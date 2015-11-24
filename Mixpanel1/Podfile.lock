@@ -1,0 +1,19 @@
+PODS:
+  - Answers (1.0.0):
+    - Fabric
+  - Fabric (1.6.1)
+  - Mixpanel (2.9.0):
+    - Mixpanel/Mixpanel (= 2.9.0)
+  - Mixpanel/Mixpanel (2.9.0)
+
+DEPENDENCIES:
+  - Answers
+  - Fabric
+  - Mixpanel (~> 2.9)
+
+SPEC CHECKSUMS:
+  Answers: 25f0d740e3e4384ed0d97a8bda6b5eea1842c3d3
+  Fabric: bf0ceb04e7c924090efc5f8c55e4fbcca189e0a0
+  Mixpanel: 42ae6168effc48481d957f7883dd8514a398738d
+
+COCOAPODS: 0.39.0
